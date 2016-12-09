@@ -1,4 +1,4 @@
-Ingredients:
+Ingredients
  - Country style ribs
  - Ketchup
  - Pepsi
@@ -9,4 +9,4 @@ Directions:
  2. Mix ketchup and pepsi in a bowl to a nice BBQ saucy consistency.
  3. Coat Ribs with ketchup pepsi sauce
  4. Preheat oven to 375
- 5. Cook for an hour or until ribs all done.
+ 5. Cook for an hour or until ribs all done.  Turn over half way through.
